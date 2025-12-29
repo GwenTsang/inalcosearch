@@ -2,7 +2,7 @@
 
 ### Prérequis :
 
-#### 1. La base de données vectorielle ChromaDB (basée sur (multilingual-e5-base)[https://huggingface.co/intfloat/multilingual-e5-base])
+#### 1. La base de données vectorielle ChromaDB (basée sur [multilingual-e5-base](https://huggingface.co/intfloat/multilingual-e5-base))
 ```python
 !sudo apt-get install megatools -q
 !megadl "https://mega.nz/file/KV8kDJJC#as8NYEPKGI-C2My9B4PUYBcKp70QU7taMxcIMMgJpvA"
